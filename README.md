@@ -1,6 +1,7 @@
 # Rent VT
 This is a repository of a course project. Including code from retrieving data and processing data to analyses and visualization.
-Our goal is to build a platform to enable new Hokies to quickly know information sources and also get some useful implications from our analysis results to benefit decisions. 
+Our primary goal is to build a platform to enable new Hokies to quickly know information sources and also get some useful implications from our analysis results to benefit decisions. 
+We also include some of our results on the website to show the process of our project and the rationale of the results.
 
 ## Geographical Range
 
