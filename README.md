@@ -4,7 +4,7 @@ Our primary goal is to build a platform to enable new Hokies to quickly know inf
 We also include some of our results on the website to show the process of our project and the rationale of the results.
 
 ## 1. Geographical Range
-Within Blacksburg
+Within Blacksburg.
 ## 2. Methods
 Data crawling, Data processing, Unsupervised Learning(Clustering), and Supervised Learning(Prediction) are used to conduct the analysis.
 ## 3. Results
