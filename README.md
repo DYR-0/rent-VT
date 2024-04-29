@@ -9,7 +9,7 @@ Within Blacksburg
 Data crawling, Data processing, Unsupervised Learning(Clustering), and Supervised Learning(Prediction) are used to conduct the analysis.
 ## 3. Results
 Results are contained on the home page.
-## Visualization and Website
+## 4. Visualization and Website
 This repository contains a website and several visualized interactive maps.
 
 ## Website License
